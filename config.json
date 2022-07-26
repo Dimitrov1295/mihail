@@ -1,0 +1,28 @@
+{
+  "baseurl": "ivandimitrov.co.uk",
+  "title": "Mihail",
+  "languageCode": "en-us",
+  "theme": "hello-friend-ng",
+  "paginate": 10,
+  "params": {
+    "homeSubtitle": "hehe",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/metalslug666"
+      }
+    ]
+  },
+  "languages": {
+    "en": {
+      "title": "Mihail",
+      "subtitle": "hehe",
+      "params": {
+        "logo": {
+          "logoText": "i like rice",
+          "logoHomeLink": "/"
+        }
+      }
+    }
+  }
+}
