@@ -2,5 +2,5 @@
 
 hugo --minify
 
-echo "ivandimitrov.co.uk" > public/CNAME
+echo "https://dimitrov1295.github.io/mihail/" > public/CNAME
 
