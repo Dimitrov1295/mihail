@@ -20,8 +20,17 @@
       "params": {
         "logo": {
           "logoText": "i like rice",
-          "logoHomeLink": "/"
+          "logoHomeLink": "/mihail"
         }
+      },
+      "menu": {
+        "main": [
+          {
+            "identifier": "rice",
+            "name": "rice",
+            "url": "rice"
+          }
+        ]
       }
     }
   }
